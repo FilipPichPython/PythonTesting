@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bffc003-f241-45e9-9166-88d653f83b96" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/testing_staff/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/testing_staff/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="7bffc003-f241-45e9-9166-88d653f83b96" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,17 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testing_staff/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +25,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/testing_staff/__init__.py" />
+        <option value="$PROJECT_DIR$/testing_staff/assert_test_case.py" />
       </list>
     </option>
   </component>
@@ -92,7 +81,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unittests in __init__.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in assert_equal_test_case.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,13 +92,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testing_staff/__init__.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testing_staff/assert_equal_test_case.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in __init__.py" />
+        <item itemvalue="Python tests.Unittests in assert_equal_test_case.py" />
       </list>
     </recent_temporary>
   </component>
@@ -123,17 +112,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555491951203</updated>
-      <workItem from="1555491956280" duration="1226000" />
+      <workItem from="1555491956280" duration="3687000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in___init___py - 2019.04.17 at 11h 15m 02s.xml">
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 12h 39m 33s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 12h 39m 59s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 12h 40m 12s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 12h 40m 38s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 12h 41m 35s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 12h 42m 03s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 12h 42m 32s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 13h 08m 29s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 13h 10m 13s.xml">
+      <configuration name="Unittests in __init__.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in___init___py - 2019.04.17 at 13h 14m 54s.xml">
       <configuration name="Unittests in __init__.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1226000" />
+    <option name="totallyTimeSpent" value="3687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,20 +162,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="950" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32886723" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32886723" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32886723" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23386115" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32886723" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32886723" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2764921" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -201,13 +216,13 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PythonTesting$Unittests_in___init___py.coverage" NAME="Unittests in __init__.py Coverage Results" MODIFIED="1555492501835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing_staff" />
+    <SUITE FILE_PATH="coverage/PythonTesting$Unittests_in___init___py.coverage" NAME="Unittests in __init__.py Coverage Results" MODIFIED="1555499694035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testing_staff" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testing_staff/__init__.py">
+    <entry file="file://$PROJECT_DIR$/testing_staff/assert_test_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="858">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>

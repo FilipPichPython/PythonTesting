@@ -9,7 +9,7 @@ def divide(a, b):
     try:
         return a / b
     except ZeroDivisionError:
-        print('you can not do it moron!')
+        return 'you can not do it moron!'
 
 
 def growing(a):
@@ -27,7 +27,7 @@ class TestClass(unittest.TestCase):
         self.assertEqual(divide(6, 3), 2)
 
     def test_divide_by_0(self):
-        self.assertEqual(divide(6, 0), print('You can not do it moron!'))
+        self.assertEqual(divide(6, 0), 'you can not do it moron!')
 
     def test_val(self):
         self.assertEqual(growing(1), 2)
